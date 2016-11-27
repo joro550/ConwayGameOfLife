@@ -1,9 +1,0 @@
-C:\Users\Mark\Documents\Projects\GameOfLife\src\GameOfLife\GameOfLife.Tests\bin\Debug\GameOfLife.Tests.dll
-C:\Users\Mark\Documents\Projects\GameOfLife\src\GameOfLife\GameOfLife.Tests\bin\Debug\GameOfLife.Tests.pdb
-C:\Users\Mark\Documents\Projects\GameOfLife\src\GameOfLife\GameOfLife.Tests\bin\Debug\nunit.framework.dll
-C:\Users\Mark\Documents\Projects\GameOfLife\src\GameOfLife\GameOfLife.Tests\bin\Debug\nunit.framework.xml
-C:\Users\Mark\Documents\Projects\GameOfLife\src\GameOfLife\GameOfLife.Tests\obj\Debug\GameOfLife.Tests.csprojResolveAssemblyReference.cache
-C:\Users\Mark\Documents\Projects\GameOfLife\src\GameOfLife\GameOfLife.Tests\obj\Debug\GameOfLife.Tests.dll
-C:\Users\Mark\Documents\Projects\GameOfLife\src\GameOfLife\GameOfLife.Tests\obj\Debug\GameOfLife.Tests.pdb
-C:\Users\Mark\Documents\Projects\GameOfLife\src\GameOfLife\GameOfLife.Tests\bin\Debug\GameOfLife.dll
-C:\Users\Mark\Documents\Projects\GameOfLife\src\GameOfLife\GameOfLife.Tests\bin\Debug\GameOfLife.pdb
